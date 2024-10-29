@@ -6,7 +6,7 @@ import 'package:crypto/crypto.dart';
 import 'package:dio/dio.dart';
 import 'package:dio_cookie_manager/dio_cookie_manager.dart';
 import 'package:encrypt/encrypt.dart';
-import 'package:translates/translate_proivder/translate.dart';
+import 'package:bean_tools/translate_proivder/translate.dart';
 
 // ignore: dangling_library_doc_comments, slash_for_doc_comments
 /**

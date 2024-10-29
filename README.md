@@ -1,2 +1,9 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+A dart tools, library code
+in `lib/`.
+
+
+1. Translate Plugins
+
+    [√] 必应
+    [√] 网易
+

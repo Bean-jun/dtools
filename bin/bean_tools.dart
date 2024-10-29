@@ -1,6 +1,6 @@
-import 'package:translates/translate_proivder/impl/bing.dart';
-import 'package:translates/translate_proivder/impl/netease.dart';
-import 'package:translates/translate_proivder/translate.dart';
+import 'package:bean_tools/translate_proivder/impl/bing.dart';
+import 'package:bean_tools/translate_proivder/impl/netease.dart';
+import 'package:bean_tools/translate_proivder/translate.dart';
 
 void main(List<String> arguments) async {
   List<TranslateProivder> proivderList = [

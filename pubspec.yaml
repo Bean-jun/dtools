@@ -1,5 +1,5 @@
-name: translates
-description: A sample command-line application.
+name: bean_tools
+description: A dart tools.
 version: 1.0.0
 # repository: https://github.com/my_org/my_repo
 

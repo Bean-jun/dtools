@@ -1,5 +1,5 @@
 import 'package:dio/dio.dart';
-import 'package:translates/translate_proivder/translate.dart';
+import 'package:bean_tools/translate_proivder/translate.dart';
 
 // ignore: slash_for_doc_comments, dangling_library_doc_comments
 /**
